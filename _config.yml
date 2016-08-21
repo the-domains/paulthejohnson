@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.2803399
+  lightness: 0.4759419
+  brandStrength: 0.3816849
+  brandColors:
+    - '#67625E'
+    - '#23262D'
+    - '#FFFE88'
+    - '#FF956B'
+    - '#7E1C00'
+  rhythmicContrast: 0.9178931
+typography_spectrum: 1
+name: Paulthejohnson
